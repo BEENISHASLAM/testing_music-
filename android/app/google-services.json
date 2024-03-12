@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "238777930329",
+    "project_id": "crazy-music-app---flutter",
+    "storage_bucket": "crazy-music-app---flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238777930329:android:c53c0035493cc319fb5748",
+        "android_client_info": {
+          "package_name": "com.example.testing_music"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX46kGYJNKAyB1zptWdk3uxYwgOTeU1GE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238777930329:android:f9236c272c6737b2fb5748",
+        "android_client_info": {
+          "package_name": "testing.music"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX46kGYJNKAyB1zptWdk3uxYwgOTeU1GE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

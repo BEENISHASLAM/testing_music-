@@ -1,0 +1,9 @@
+<resources>
+    <!-- Example Firebase configuration values -->
+    <string name="firebase_database_url">"https://crazy-music-app---flutter-default-rtdb.firebaseio.com"
+</string>
+    <string name="google_api_key">"AIzaSyBX46kGYJNKAyB1zptWdk3uxYwgOTeU1GE"</string>
+    <string name="google_app_id">"1:238777930329:android:c53c0035493cc319fb5748"</string>
+    <string name="google_crash_reporting_api_key">"1:238777930329:android:c53c0035493cc319fb5748"</string>
+    <string name="project_id">"crazy-music-app---flutter"</string>
+</resources>
